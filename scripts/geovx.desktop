@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Categories=Utility;Development;GTK;
+Name=GeoVX
+Comment="View and Export geojson"
+TryExec=/usr/bin/geovx-dev
+Exec=/usr/bin/geovx-dev %F
+Icon=geovx
+MimeType=image/svg+xml;
+X-KDE-Library=geovx
+X-KDE-FactoryName=devlovers
+X-KDE-ServiceType=utils
